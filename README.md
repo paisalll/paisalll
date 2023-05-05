@@ -5,7 +5,7 @@
 </br>
 <h5 align="left">Frontend developer with passion for technology, which i have pursued through completing IT school and taking courses. Interested in creative web design with visually appealing and easily understood by wide audience. Excelled in HTML, CSS, and Javascript as well as latest technologies such us React, Tailwind, and Bootstrap. Currently looking for technology company where I could create meaningful projects and benefit others.</h5>
 
-- 🌱 I’m currently learning <b>Typescript</b>
+- 🌱 I’m currently learning <b>Typescript</b> and <b>React</b> 
 - 👯 Available for work and collaborations
 - 💬 Ask me about anything tech related, I am happy to help [here](faizaltriasaa@gmail.com)
 - ⚡ Fun fact I am funny (maybe) 😅
@@ -19,7 +19,6 @@
 </br>
 <p align="center">
 <a href="https://linkedin.com/in/paisallll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paisallll" height="30" width="40" /></a>
-<a href="https://fb.com/paisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paisal" height="30" width="40" /></a>
 <a href="https://instagram.com/paisaalll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paisaalll" height="30" width="40" /></a>
 <a href="https://discord.gg/paisalll#0481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="paisalll#0481" height="30" width="40" /></a>
 </p>
