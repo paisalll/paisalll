@@ -29,7 +29,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" witdh="50" height="50"/> <b>Github Stats</b></h2>
 </br>
 
-<p align="right"><img align="right" alt="coding" width="425" height="600" style="margin-top:20px" src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif"></p>
+<p align="right"><img align="right" alt="coding" width="375" height="600" style="margin-top:20px" src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif"></p>
 <p>
   
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paisalll&show_icons=true&locale=en&layout=compact" alt="paisalll" /></p>
