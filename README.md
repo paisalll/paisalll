@@ -28,12 +28,22 @@
 
 <h2 align="center"><img src="https://media.giphy.com/media/AynUwd5uKhIevEWx54/giphy.gif" witdh="50" height="50"/> <b>Github Stats</b></h2>
 </br>
-<img align="right" alt="coding" width="425" height="600" style="margin-top:20px" src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paisalll&show_icons=true&locale=en&layout=compact" alt="paisalll" /></p>
+<p align="right"><img align="right" alt="coding" width="425" height="600" style="margin-top:20px" src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif"></p>
+<p>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paisalll&show_icons=true&locale=en&layout=compact" alt="paisalll" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paisalll&show_icons=true&locale=en" alt="paisalll" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paisalll&" alt="paisalll" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paisalll&" alt="paisalll" /></p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 </br>
 <h1 align="center"><img alt="coding" width="50" height="50" style="margin-top:20px" src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif"> Follow me and be my nakama !!</h1>
 
