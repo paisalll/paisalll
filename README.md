@@ -32,11 +32,10 @@
 <p align="center"><img align="right" alt="coding" width="375" height="600" style="margin-top:20px" src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif"></p>
 <p>
   
-  <img align="center" width="375" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=paisalll&show_icons=true&locale=en&layout=compact" alt="paisalll" /></p>
+  <img align="center" width="375" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=paisalll&show_icons=true&&theme=gruvbox&locale=en&layout=compact" alt="paisalll" /></p>
 
-<p><img align="center" width="375" height="200" src="https://github-readme-stats.vercel.app/api?username=paisalll&show_icons=true&locale=en" alt="paisalll" /></p>
-<p><img align="center" width="375" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=paisalll&" alt="paisalll" /></p>
-</br>
+<p><img align="center" width="375" height="200" src="https://github-readme-stats.vercel.app/api?username=paisalll&show_icons=true&&theme=gruvbox&locale=en" alt="paisalll" /></p>
+<p><img align="center" width="375" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=paisalll&&theme=gruvbox" alt="paisalll" /></p>
 </br>
 <h1 align="center"><img alt="coding" width="50" height="50" style="margin-top:20px" src="https://media.giphy.com/media/YqFACC5oHsyy3l31k1/giphy.gif"> Follow me and be my nakama !!</h1>
 
